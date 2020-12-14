@@ -1,0 +1,32 @@
+read, reserved word 
+x , identifer  
+; , semi column
+if, reserved word 
+0 , number  
+< , smaller than
+x , identifer  
+then, reserved word 
+fact , identifer  
+:= , assign
+1 , number  
+; , semi column
+repeat, reserved word 
+fact , identifer  
+:= , assign
+fact , identifer  
+* , multiplication
+x , identifer  
+; , semi column
+x , identifer  
+:= , assign
+x , identifer  
+- , subtracion
+1 , number  
+until, reserved word 
+x , identifer  
+= , conditional equal
+0 , number  
+; , semi column
+write, reserved word 
+fact , identifer  
+end, reserved word 
